@@ -1,3 +1,5 @@
+## **LOG DA IMAGEM SENDO FEITA** ##
+
 #0 building with "default" instance using docker driver
 
 #1 [internal] load .dockerignore
