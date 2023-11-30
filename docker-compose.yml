@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+
+      sg9:
+            image: soyinha/nginx-iago
+            container_name: sg9-container
+            ports: 
+                  - "80:80"
+           
+            
+networks:
+    site-network:
+        driver: bridge
